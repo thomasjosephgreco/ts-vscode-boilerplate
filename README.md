@@ -20,16 +20,20 @@ $ typings install
 
 4. Use `Shift` + `Command` + `p` to open command panel and type "run task":
 
-
+![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/run-task.png)
 
 5. Select "run task" to see available gulp tasks:
 
+![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/task-list.png)
 
+6. Use `Shift` + `Command` + `=` and select "run":
 
-6. Use `Shift` + `Command` + `=` and select "run" to enjoy real-time tests results powered by [Wallaby.js](http://wallabyjs.com/):
+![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/enable-wallaby.png)
+
+Enjoy real-time tests results powered by [Wallaby.js](http://wallabyjs.com/):
  
- 
+![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/wallaby.gif)
  
 5. Enjoy coding with TypeScript!
 
-pleae send a PR! If you know how to make this template better.
+Please send a PR! If you know how to make this template better.
