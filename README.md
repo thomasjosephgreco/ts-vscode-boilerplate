@@ -26,7 +26,7 @@ $ typings install
 
 ![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/task-list.png)
 
-6) Use `Shift` + `Command` + `=` and select "run":
+6) Use `Shift` + `Command` + `=` and select "Start":
 
 ![](https://raw.githubusercontent.com/remojansen/ts-vscode-boilerplate/master/assets/enable-wallaby.png)
 
