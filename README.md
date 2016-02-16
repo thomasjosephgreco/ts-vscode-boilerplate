@@ -1,5 +1,7 @@
 # ts-vscode-boilerplate
-Boilerplate Visual Studio Code TypeScript project
+Boilerplate Visual Studio Code TypeScript project.
+
+Please visit [blog.wolksoftware.com](http://blog.wolksoftware.com/setting-up-your-typescript-vs-code-development-environment) to learn more about this template.
 
 # How to use this template?
 
