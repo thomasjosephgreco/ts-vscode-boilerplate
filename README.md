@@ -12,6 +12,14 @@ $ unzip master.zip
 ```
 
 2) Install dependencies and their type definitions:
+
+> Note: Before running the following commands, make sure you have [Node.js]() installed and 
+that you have installed typings and gulp as global packages:
+```
+$ npm -g install gulp
+$ npm -g install typings
+```
+
 ```
 $ cd ts-vscode-boilerplate
 $ npm install
