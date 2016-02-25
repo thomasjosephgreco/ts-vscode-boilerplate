@@ -34,7 +34,8 @@
     "tslint": "^3.3.0",
     "typescript": "^1.7.5",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^1.1.0",
+    "wallabify": "0.0.14"
   },
   "dependencies": {
     "jquery": "^2.2.0"
